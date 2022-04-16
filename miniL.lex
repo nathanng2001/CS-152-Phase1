@@ -1,5 +1,6 @@
    /* cs152-miniL phase1 */
    /* Partnered with Jackson Hoke */
+   /* Github: https://github.com/nathanng2001/CS-152-Phase1.git */
 
 %{   
    /* write your C code here for definitions of variables and including headers */
