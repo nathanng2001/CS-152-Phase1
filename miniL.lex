@@ -1,5 +1,6 @@
    /* cs152-miniL phase1 */
-   
+   /* Partnered with Jackson Hoke */
+
 %{   
    /* write your C code here for definitions of variables and including headers */
    int currPos = 1; int currLine = 1;
